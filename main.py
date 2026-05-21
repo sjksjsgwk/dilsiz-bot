@@ -13,7 +13,7 @@ H = os.getenv("API_HASH")
 T = os.getenv("BOT_TOKEN")
 
 # Yetkili kullanıcı ID'leri
-S = [8627915546, 7410828118]
+S = [8627915546, 7410828118, 8623836373]
 
 # Ban yetkileri
 R = CBR(
